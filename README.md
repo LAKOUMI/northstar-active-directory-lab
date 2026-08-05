@@ -90,5 +90,10 @@ the solution inclued:
     |--- incident-before'png
     |--- incident-after.png
 
-    
-  
+  ## 🎥 Video Walkthrough
+
+This video demonstrates my Active Directory lab, RBAC implementation, and the resolution of Incident NMG-0047.
+
+Watch the project walkthrough here:
+
+https://youtu.be/tASi9rziu-I
