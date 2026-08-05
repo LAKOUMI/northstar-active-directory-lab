@@ -1,0 +1,3 @@
+Investigation revealed that Jane Smith had been provisioned in the Operations Organizational Unit instead of the Human Resources OU.
+As a result, Operations Group Policy Objects and security group assignments were applied to her account, causing incorrect desktop settings and access permissions.
+The user was moved to the Human Resources OU, group memberships were verified, and Group Policy was refreshed to restore the expected configuration.
